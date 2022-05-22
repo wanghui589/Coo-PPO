@@ -12,3 +12,5 @@ In the algorithm implementation, the agent uses an independent parameter structu
 The experimental results show that the Coo-PPO algorithm obtains more rewards, significantly suppresses the fluctuation in PCCF (up to $41.55%$), and dramatically decreases the TP's off-line rate (up to $10.77%$).
 
 # Results
+![SOTA results](result/statistics_hou_1.png "results on Jing-jin railway line parameters")
+![SOTA results](result/statistics_qian_1.png "results on Jing-jin railway line parameters")
