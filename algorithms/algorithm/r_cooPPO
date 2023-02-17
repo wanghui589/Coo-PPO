@@ -11,7 +11,7 @@ from utils.valuenorm import ValueNorm
 from algorithms.utils.util import check
 
 
-class RMAPPO():
+class RCooPPO():
     """
     Trainer class for MAPPO to update policies.
     :param args: (argparse.Namespace) arguments containing relevant model, policy, and env information.
